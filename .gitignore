@@ -1,0 +1,13 @@
+.gradle-cache/
+tmp/
+**/.gradle/
+**/build/
+**/out/
+**/data/
+**/.idea/
+*.iml
+*.zip
+*.pdf
+**/REPORT*.md
+lab-2/
+coursework/examples/
